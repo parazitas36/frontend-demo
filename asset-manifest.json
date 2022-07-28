@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/parazitas36/github.io/frontend-demo/static/css/main.2366156d.css",
-    "main.js": "/parazitas36/github.io/frontend-demo/static/js/main.259379ac.js",
-    "static/js/787.b701888c.chunk.js": "/parazitas36/github.io/frontend-demo/static/js/787.b701888c.chunk.js",
-    "static/media/background.jpg": "/parazitas36/github.io/frontend-demo/static/media/background.bd431b024b6460a24c8b.jpg",
-    "static/media/logo.svg": "/parazitas36/github.io/frontend-demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/parazitas36/github.io/frontend-demo/index.html",
-    "main.2366156d.css.map": "/parazitas36/github.io/frontend-demo/static/css/main.2366156d.css.map",
-    "main.259379ac.js.map": "/parazitas36/github.io/frontend-demo/static/js/main.259379ac.js.map",
-    "787.b701888c.chunk.js.map": "/parazitas36/github.io/frontend-demo/static/js/787.b701888c.chunk.js.map"
+    "main.css": "/frontend-demo/static/css/main.88d7de9a.css",
+    "main.js": "/frontend-demo/static/js/main.0e2e2621.js",
+    "static/js/787.b701888c.chunk.js": "/frontend-demo/static/js/787.b701888c.chunk.js",
+    "static/media/background.jpg": "/frontend-demo/static/media/background.bd431b024b6460a24c8b.jpg",
+    "static/media/logo.svg": "/frontend-demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/frontend-demo/index.html",
+    "main.88d7de9a.css.map": "/frontend-demo/static/css/main.88d7de9a.css.map",
+    "main.0e2e2621.js.map": "/frontend-demo/static/js/main.0e2e2621.js.map",
+    "787.b701888c.chunk.js.map": "/frontend-demo/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2366156d.css",
-    "static/js/main.259379ac.js"
+    "static/css/main.88d7de9a.css",
+    "static/js/main.0e2e2621.js"
   ]
 }
